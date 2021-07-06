@@ -1,0 +1,1 @@
+firefox $(sudo cat live.txt | tr '\n' ' ') &
